@@ -57,6 +57,6 @@ Para acessar os dados do projeto no Google Sheets, clique [aqui](https://docs.go
 
 Para acessar a matriz RFM feita no Data Studio clique [aqui](https://datastudio.google.com/reporting/1facacf5-e5d9-411a-bb96-643a436ecb06).
 
-KAGGLE. Conjunto de dados de vendas da Superstore. Kaggle, Datasets. São Paulo, 2022 Dispopnível em: < Superstore Sales Dataset | Kaggle>. Acesso em 04 maio. 2022.
+KAGGLE. Conjunto de dados de vendas da Superstore. Kaggle, Datasets. São Paulo, 2022 Dispopnível [aqui](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting).
 
 
